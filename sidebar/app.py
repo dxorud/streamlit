@@ -17,9 +17,9 @@ folder = './data/'
 
 image_files = [
     'https://github.com/dxorud/streamlit/blob/main/sidebar/data/Vermeer.png?raw=true',
-    'https://github.com/dxorud/streamlit/blob/main/sidebar/data/Vermeer.png?raw=true',
-    'https://github.com/dxorud/streamlit/blob/main/sidebar/data/Vermeer.png?raw=true',
-    'https://github.com/dxorud/streamlit/blob/main/sidebar/data/Vermeer.png?raw=true',
+    'https://github.com/dxorud/streamlit/blob/main/sidebar/data/Gogh.png?raw=true',
+    'https://github.com/dxorud/streamlit/blob/main/sidebar/data/Munch.png?raw=true',
+    'https://github.com/dxorud/streamlit/blob/main/sidebar/data/ShinYoonbok.png?raw=true',
 ]
 
 selectbox_options_index = selectbox_option.index(your_option)
